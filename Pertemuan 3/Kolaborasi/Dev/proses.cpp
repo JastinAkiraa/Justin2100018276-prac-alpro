@@ -1,10 +1,9 @@
-#include <iostream>
-#include <fstream>
-#include "../library/proses.h"
+#include<iostream>
+#include"../Library/proses.h"
 
 int main(){
-	Proses proses;
-	proses.getData();
-	proses.toFile();
-	return 0;
-  }
+    proses proses;
+    proses.getData();
+    proses.toFile();
+    return 0;
+}
