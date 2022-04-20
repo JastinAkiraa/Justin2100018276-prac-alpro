@@ -44,8 +44,8 @@ void menghitung::akhir(){
 		cout<<"\nTotal Pengeluaran bulan ke : "<<i+1<<" = "<<pengeluaran;
 	}
   cout<<"\nTotal keseluruhan uang saku Selama "<<bln<<" Bulan : "<<totsak;
-  cout<<"\nTotal keseluruhan pengeluaran : "<<total;
-  cout<<"\nTotal Tabungan : "<<tabungan;
+  cout<<"\nTotal keseluruhan pengeluaran \t: "<<total;
+  cout<<"\nTotal Tabungan \t\t: "<<tabungan;
 }
 int main(){
   menghitung H;
